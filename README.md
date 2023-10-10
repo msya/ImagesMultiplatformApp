@@ -4,6 +4,7 @@
 
 **Description**
 This app displays a list of images from the endpoint `https://sebastianaigner.github.io/demo-image-api/pictures.json`.
+Each image's url is prepended with `https://sebastianaigner.github.io/demo-image-api/${image.path}/{IMAGE_PATH}". 
 
 
 > **Note**
