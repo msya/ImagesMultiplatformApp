@@ -2,6 +2,10 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) application
 
+**Description**
+This app displays a list of images from the endpoint `https://sebastianaigner.github.io/demo-image-api/pictures.json`.
+
+
 > **Note**
 > The iOS part of Compose Multiplatform is in Alpha. It may change incompatibly and require manual migration in the
 > future.

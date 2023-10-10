@@ -46,7 +46,6 @@ class ImagesViewModel(
             result.fold({
                 imagesViewModel = ImagesListModel.Success(it)
             }) {
-                it.printStackTrace()
                 imagesViewModel = ImagesListModel.Error
             }
         }
